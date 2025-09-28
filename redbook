@@ -1,0 +1,507 @@
+{
+  "oracle_v4_company": {
+    "document_title": "V4 Company Oracle - THE RED BOOK & EMPS WORKBOOK",
+    "core_principles": {
+      [cite_start]"vision_bhag": "Tornar a V4 Company uma das 2.000 empresas de capital aberto mais valiosas do mundo (Forbes 2000). [cite: 1484]",
+      "problem_to_solve": "Vender produtos. Vender para mais pessoas. Vender mais vezes. [cite_start]Vender pelo maior valor, resolvendo jornadas de consumo com alta assimetria de informação. [cite: 1488, 1495]",
+      [cite_start]"how_we_win": "Construímos soluções digitais que fazem as empresas venderem mais, conectando consumidores online a produtos e serviços. [cite: 1494] [cite_start]Vencemos ao entregar valor real ao consumidor, o que atrai as marcas, criando uma vantagem competitiva através do nosso modelo de partnership e da cultura G.R.O.W.T.H. [cite: 1500, 1501, 1503, 1504]",
+      "pife_what_we_want": {
+        [cite_start]"description": "PIFE é a âncora pessoal para alta performance sustentável. [cite: 1545]",
+        "pillars": [
+          {
+            "name": "Professional",
+            [cite_start]"goal": "Ser dono da sua própria empresa, construindo patrimônio através de equity e dividendos proporcionais ao valor gerado, tornando-se sócio. [cite: 1547, 1548, 1549, 1551]"
+          },
+          {
+            "name": "Intelectual",
+            [cite_start]"goal": "Ser reconhecido como referência global em sua área, transformando conhecimento de ponta em soluções práticas e metodologias que definem tendências. [cite: 1560, 1563, 1565]"
+          },
+          {
+            "name": "Fitness/Físico",
+            [cite_start]"goal": "Ter saúde e vitalidade para sustentar décadas de alta performance, tratando o corpo como um ativo essencial para a longevidade competitiva. [cite: 1577, 1579, 1583]"
+          },
+          {
+            "name": "Emocional",
+            [cite_start]"goal": "Manter a estabilidade mental sob pressão, construindo uma rede de suporte e usando a paz interior como uma vantagem estratégica para prosperar em crises. [cite: 1595, 1597, 1601]"
+          }
+        ]
+      },
+      "growth_mindset_vs_fixed_mindset": {
+        [cite_start]"growth_mindset": "Crer que habilidades podem ser desenvolvidas com prática deliberada, feedback constante e método científico, tratando cada fracasso como aprendizado. [cite: 1616, 1618]",
+        [cite_start]"fixed_mindset": "Supor que habilidade é fixa, evitando riscos e feedback, e decidindo com base no ego em vez de evidências. [cite: 1619]"
+      }
+    },
+    "strategic_framework_champ": {
+      [cite_start]"description": "O CHAMP é a síntese operacional que conecta metas de negócio com decisões diárias, servindo como um filtro para todas as iniciativas. [cite: 19, 1507] [cite_start]Cada iniciativa deve justificar qual letra do CHAMP atende. [cite: 1508]",
+      "pillars": [
+        {
+          "letter": "C",
+          "name": "Consumers",
+          [cite_start]"goal": "Impactar 100 milhões de consumidores até 2030, ganhando sua confiança com jornadas que reduzem a assimetria de informação. [cite: 22, 25, 1511]"
+        },
+        {
+          "letter": "H",
+          "name": "Hosts",
+          [cite_start]"goal": "Conectar 100 mil empresas (clientes) à plataforma da V4. [cite: 33, 1512]"
+        },
+        {
+          "letter": "A",
+          "name": "Annual Revenue",
+          [cite_start]"goal": "Atingir US$ 1 bilhão em receita anual com margens saudáveis e um modelo de negócio escalável. [cite: 107, 108, 1513]"
+        },
+        {
+          "letter": "M",
+          "name": "Milestone IPO",
+          [cite_start]"goal": "Realizar o IPO como um rito de passagem que consagra a maturidade de gestão e permite acessar capital para acelerar a tese. [cite: 115, 118, 1514]"
+        },
+        {
+          "letter": "P",
+          "name": "Perpetuity",
+          [cite_start]"goal": "Garantir a perpetuidade do negócio através da capacidade de se adaptar e prosperar, com ciclos de entrada e saída de sócios bem estruturados, visando estar entre as 2000 empresas mais relevantes do mundo. [cite: 125, 126, 127, 136, 1515]"
+        }
+      ]
+    },
+    "culture_code_growth": {
+      [cite_start]"description": "G.R.O.W.T.H. descreve como vencemos por meio de comportamentos observáveis, que constroem nosso Growth Mindset. [cite: 1542, 1543, 1620]",
+      "pillars": [
+        {
+          "letter": "G",
+          "name": "GTM to Learn Faster",
+          [cite_start]"concept": "Ir ao mercado para aprender com velocidade, entendendo que o gargalo é a cadência de aprendizado, não a execução. [cite: 1642, 1643] [cite_start]Testar rápido para errar rápido, construindo feedback loops contínuos. [cite: 1648, 1654]",
+          "expected_behaviors": [
+            [cite_start]"Obsessão com o sucesso do cliente. [cite: 1653]",
+            [cite_start]"Criar feedback loops contínuos com o mercado. [cite: 1654]",
+            [cite_start]"Ter clareza total do seu Go-To-Market (GTM). [cite: 1655]",
+            [cite_start]"Compartilhar aprendizados com toda a equipe. [cite: 1656]"
+          ],
+          "unacceptable_behaviors": [
+            [cite_start]"Falta de clareza sobre o GTM. [cite: 1660]",
+            [cite_start]"Decisões isoladas sem pensar no impacto geral. [cite: 1661]",
+            [cite_start]"Repetir erros já aprendidos. [cite: 1663]"
+          ]
+        },
+        {
+          "letter": "R",
+          "name": "Radical Candor",
+          [cite_start]"concept": "Fornecer feedback com verdade e respeito para acelerar a melhoria, focando sempre no problema, nunca na pessoa. [cite: 1688, 1690] [cite_start]Após a decisão, todos devem se comprometer e executar juntos ('Disagree & Commit'). [cite: 1690, 1711]",
+          "expected_behaviors": [
+            [cite_start]"Colocar o interesse da companhia em primeiro lugar. [cite: 1700]",
+            [cite_start]"Preferir a verdade desconfortável à mentira conveniente. [cite: 1701]",
+            [cite_start]"Não levar confrontos respeitosos para o lado pessoal. [cite: 1703]",
+            [cite_start]"Focar o feedback na execução e nas decisões. [cite: 1704]"
+          ],
+          "unacceptable_behaviors": [
+            [cite_start]"Fofoca e conversas de corredor. [cite: 1708]",
+            [cite_start]"Ataques pessoais disfarçados de feedback. [cite: 1707]",
+            [cite_start]"Omitir questões importantes por conveniência. [cite: 1707]"
+          ]
+        },
+        {
+          "letter": "O",
+          "name": "Ownership",
+          [cite_start]"concept": "Ser dono do resultado do início ao fim, não apenas das tarefas. [cite: 1737] [cite_start]A responsabilidade é total, sem culpar fatores externos, e é o caminho para se tornar sócio. [cite: 1740, 1744]",
+          "expected_behaviors": [
+            [cite_start]"Comprometimento com o resultado final, não apenas com as etapas. [cite: 1747]",
+            [cite_start]"Assumir responsabilidade total quando algo dá errado. [cite: 1748]",
+            [cite_start]"Transformar problemas e adversidades em oportunidades de crescimento. [cite: 1749]",
+            [cite_start]"Ver a V4 como uma plataforma para empreender. [cite: 1751]"
+          ],
+          "unacceptable_behaviors": [
+            [cite_start]"Terceirização da responsabilidade. [cite: 1753]",
+            [cite_start]"Entregar apenas 'a sua parte' e ignorar o resultado geral. [cite: 1756]",
+            [cite_start]"Abandonar projetos após a entrega sem monitorar os resultados. [cite: 1764]"
+          ]
+        },
+        {
+          "letter": "W",
+          "name": "Working Backwards",
+          [cite_start]"concept": "Começar pelo resultado desejado pelo cliente e trabalhar de trás para frente até a solução. [cite: 1779] [cite_start]A melhor solução para a empresa é sempre a melhor solução para o cliente. [cite: 1782]",
+          "expected_behaviors": [
+            [cite_start]"Manter proximidade com o cliente para solucionar problemas reais. [cite: 1789]",
+            [cite_start]"Buscar a causa raiz dos problemas usando os '5 porquês'. [cite: 1790]",
+            [cite_start]"Entender que o seu sucesso depende do sucesso de quem você atende. [cite: 1792]"
+          ],
+          "unacceptable_behaviors": [
+            [cite_start]"Esperar que o cliente traga a solução, em vez do problema. [cite: 1795]",
+            [cite_start]"Desenvolver soluções sem validar o valor real para o usuário. [cite: 1800]",
+            [cite_start]"Cobrar por esforço, em vez de impacto gerado. [cite: 1810]"
+          ]
+        },
+        {
+          "letter": "T",
+          "name": "Trust in Science",
+          [cite_start]"concept": "Tomar decisões com base em método científico, dados e ética. [cite: 1826] [cite_start]Aplicar ceticismo científico para desafiar o status quo e tomar decisões baseadas em evidências, não em 'achismo'. [cite: 1827, 1828]",
+          "expected_behaviors": [
+            [cite_start]"Aplicar o método de observação, hipótese, teste e análise. [cite: 1836]",
+            [cite_start]"Basear decisões em dados, não em opinião. [cite: 1839]",
+            [cite_start]"Questionar sempre: 'Como sabemos que isso é verdade?'. [cite: 1851]"
+          ],
+          "unacceptable_behaviors": [
+            [cite_start]"Tomar decisões baseadas em 'achismo'. [cite: 1842]",
+            [cite_start]"Aceitar dogmas sem questionar ou apresentar evidências. [cite: 1843]",
+            [cite_start]"Confundir correlação com causalidade. [cite: 1856]"
+          ]
+        },
+        {
+          "letter": "H",
+          "name": "High Standards, Frugal Execution",
+          [cite_start]"concept": "Buscar excelência com disciplina e qualidade de classe mundial, sem desperdício. [cite: 1869] [cite_start]É sobre alcançar o máximo de resultado com o mínimo de recursos. [cite: 1876]",
+          "expected_behaviors": [
+            [cite_start]"Preferir soluções simples com alto ROI. [cite: 1884]",
+            [cite_start]"Gastar e negociar como se o dinheiro fosse seu. [cite: 1885]",
+            [cite_start]"Questionar a qualidade constantemente: 'A Apple faria isso?'. [cite: 1886]",
+            [cite_start]"Revisar o ROI de cada investimento mensalmente. [cite: 1887]"
+          ],
+          "unacceptable_behaviors": [
+            [cite_start]"Aceitar a mediocridade ou o 'está bom'. [cite: 1878]",
+            [cite_start]"Realizar gastos sem um claro plano de retorno. [cite: 1879]",
+            [cite_start]"Depender de 'heróis' e esforços insustentáveis. [cite: 1880]",
+            [cite_start]"Comprar ferramentas ou fazer gastos por vaidade. [cite: 1882]"
+          ]
+        }
+      ]
+    },
+    "operating_model_emps": {
+      "concept": "EMPS é o framework que detalha a Estrutura Organizacional (E), o Modelo de Gestão (M), os Processos + GTM (P) e os Sistemas (S) para garantir uma execução padronizada e escalável em toda a rede.",
+      "single_entity": {
+        [cite_start]"concept": "Evoluir de uma rede de unidades para uma companhia única, com um só padrão, sistema e cultura para escalar com governança e consistência. [cite: 156, 158] [cite_start]O padrão não engessa, ele liberta tempo e energia para focar no que importa. [cite: 172, 174]",
+        [cite_start]"leadership_role": "Os gestores das unidades são os responsáveis por aplicar os padrões, implementar o modelo de gestão e cuidar da cultura local como uma extensão da V4. [cite: 180, 183, 184, 186]"
+      },
+      "pillars": {
+        "e_organizational_structure": {
+          [cite_start]"concept": "A unidade V4 é uma fábrica de receita (Revenue Factory) que integra marketing, vendas e sucesso do cliente (RevOps) para gerar receita com qualidade e sem silos. [cite: 421, 432, 433]",
+          [cite_start]"leverage_model": "A gestão tática é baseada no modelo de leverage 1:8, onde cada líder (Coordenador, Gerente, Diretor) lidera até 8 pessoas, garantindo alta performance e escalabilidade. [cite: 504, 510, 528]",
+          "organizational_blocks": [
+            {
+              "name": "PE&G (Planejamento, Estratégia e Gestão de Projetos)",
+              [cite_start]"function": "Responsável por gerir escopos, planos de voo, entregas e operação. [cite: 485] [cite_start]Garante o sucesso do cliente com qualidade e padronização. [cite: 486]",
+              "squad_evolution_stages": [
+                {
+                  "stage": 1,
+                  "mrr": "~R$40k",
+                  "payroll_percentage": "~29%",
+                  "productivity": "~3.4",
+                  [cite_start]"team_composition": "Coordenador/Account, 1 GT/Cientista, 0.5 Copy, 0.5 Designer. [cite: 573, 576, 581]"
+                },
+                {
+                  "stage": 2,
+                  "mrr": "~R$70k",
+                  "payroll_percentage": "~32%",
+                  "productivity": "~3.1",
+                  [cite_start]"team_composition": "Coordenador/Account, 3 GTs/Cientistas, 1 Copy, 1 Designer. [cite: 587, 589, 592]"
+                },
+                {
+                  "stage": 3,
+                  "mrr": "~R$100k",
+                  "payroll_percentage": "~33%",
+                  "productivity": "~3.0",
+                  [cite_start]"team_composition": "Coordenador, 2 Accounts, 3 GTs/Cientistas, 1.5 Designer, 1 Copy. [cite: 598, 600, 606]"
+                },
+                {
+                  "stage": 4,
+                  "mrr": "~R$150k",
+                  "payroll_percentage": "~30%",
+                  "productivity": "~3.3",
+                  [cite_start]"team_composition": "Coordenador, 2 Accounts, 2 Gestores de Tráfego, 2 Designers, 1 Copy, 1 Analista de CRM. [cite: 621, 623, 626] [cite_start]Este é o 'sweet spot' de maturidade e eficiência. [cite: 620, 625]"
+                },
+                {
+                  "stage": 5,
+                  "mrr": "~R$180k",
+                  "payroll_percentage": "~33%",
+                  "productivity": "~3.0",
+                  [cite_start]"team_composition": "Equipe expandida ao limite operacional, sinalizando a necessidade de replicar a squad. [cite: 628, 629, 630, 631, 636]"
+                }
+              ]
+            },
+            {
+              "name": "Administração (Financeiro + People)",
+              [cite_start]"function": "Responsável pela controladoria, folha, people analytics e cultura, garantindo compliance e evitando gargalos operacionais. [cite: 492, 493]",
+              "structure_by_revenue": [
+                {
+                  "revenue": "Até R$60k",
+                  [cite_start]"team": "O sócio-administrador assume o papel de Coordenador Administrativo. [cite: 688, 677, 679]"
+                },
+                {
+                  "revenue": "R$60k-150k",
+                  [cite_start]"team": "Adiciona-se um People Generalista Jr. para delegar a frente de pessoas. [cite: 695, 696, 697]"
+                },
+                {
+                  "revenue": "R$150k-300k",
+                  [cite_start]"team": "Adiciona-se um Analista Financeiro para executar rotinas diárias. [cite: 709, 710]"
+                },
+                {
+                  "revenue": "R$300k-600k",
+                  [cite_start]"team": "A área financeira se especializa com Analista de Contas a Pagar e Analista de Contas a Receber. [cite: 724, 726]"
+                },
+                {
+                  "revenue": "Acima de R$600k",
+                  [cite_start]"team": "Estrutura completa com 3 frentes financeiras (Pagar, Receber, Administrativo) para uma governança madura. [cite: 739, 750, 751]"
+                }
+              ]
+            },
+            {
+              "name": "Receita (Aquisição + Expansão)",
+              [cite_start]"function": "Times comerciais e de monetização focados em prospecção, venda, renovação e up/cross-sell. [cite: 490]",
+              "acquisition_stages_by_revenue": [
+                {
+                  "stage": 1,
+                  "revenue": "até R$ 50 000,00",
+                  [cite_start]"team": "Coordenador de Receita executa todos os papéis. [cite: 854, 856]"
+                },
+                {
+                  "stage": 2,
+                  "revenue": "média R$ 150.000,00",
+                  [cite_start]"team": "Adiciona-se um Pré-vendas. [cite: 861, 864]"
+                },
+                {
+                  "stage": 3,
+                  "revenue": "media R$ 300,000,00",
+                  [cite_start]"team": "Estrutura madura com Coordenador, Pré-vendas e Closer. [cite: 869, 871]"
+                },
+                {
+                  "stage": 4,
+                  "revenue": "média R$ 400.000,00",
+                  [cite_start]"team": "Ampliação da estrutura com mais um Pré-vendas. [cite: 880, 890]"
+                },
+                {
+                  "stage": 5,
+                  "revenue": "média R$ 800.000,00",
+                  [cite_start]"team": "Estrutura robusta com múltiplos Pré-vendas e Closers. [cite: 887, 892]"
+                }
+              ],
+              "expansion_structure_by_horizon": [
+                {
+                  "horizon": 1,
+                  "revenue": "< R$60.000,00",
+                  [cite_start]"structure": "Accounts são responsáveis por identificar oportunidades, com suporte do Coordenador de PE&G. [cite: 899, 900]"
+                },
+                {
+                  "horizon": 2,
+                  "revenue": "R$60.000,00 e menos de R$ 150.000,00",
+                  [cite_start]"structure": "Mantém a estrutura enxuta, com o Coordenador de PE&G liderando a monetização. [cite: 924, 931, 941]"
+                },
+                {
+                  "horizon": 3,
+                  "revenue": "R$150.000,00 e menos de R$ 600.000,00",
+                  [cite_start]"structure": "Introduz o Coordenador de Receitas para conectar aquisição e monetização, especialmente acima de R$250.000,00. [cite: 949, 957, 958]"
+                },
+                {
+                  "horizon": 4,
+                  "revenue": "> R$600.000,00",
+                  [cite_start]"structure": "Modelo completo com Coordenador de Receitas e Líder de Monetização para máxima eficiência. [cite: 982, 987]"
+                }
+              ]
+            }
+          ]
+        },
+        "m_management_model": {
+          [cite_start]"leadership_philosophy": "Baseada em Vicente Falconi: liderar é bater metas de forma consistente, com ética e método, utilizando ferramentas de gestão para entregar resultados. [cite: 1024]",
+          "leader_toolbox": [
+            {
+              "tool": "PDCA",
+              [cite_start]"purpose": "Melhorar continuamente qualquer processo. [cite: 1033]"
+            },
+            {
+              "tool": "Pareto (80/20)",
+              [cite_start]"purpose": "Identificar o que mais gera resultado ou problema. [cite: 1033]"
+            },
+            {
+              "tool": "FCA (Fato-Causa-Ação)",
+              [cite_start]"purpose": "Transformar diagnóstico em ação concreta. [cite: 1033]"
+            },
+            {
+              "tool": "Ishikawa",
+              [cite_start]"purpose": "Identificar causas de problemas complexos. [cite: 1033]"
+            },
+            {
+              "tool": "5 Porquês",
+              [cite_start]"purpose": "Encontrar a causa raiz rapidamente. [cite: 1033]"
+            },
+            {
+              "tool": "5W2H",
+              [cite_start]"purpose": "Executar planos de ação com clareza. [cite: 1043]"
+            }
+          ],
+          "management_rituals": [
+            {
+              "ritual": "Daily de Execução",
+              "frequency": "Diário",
+              [cite_start]"objective": "Acompanhamento do que foi feito ontem e foco do dia. [cite: 1049]"
+            },
+            {
+              "ritual": "1:1 com liderados",
+              "frequency": "Semanal",
+              [cite_start]"objective": "Desenvolvimento individual + alinhamento de expectativas. [cite: 1049]"
+            },
+            {
+              "ritual": "Comitê de Operações",
+              "frequency": "Semana / mensal/tril",
+              [cite_start]"objective": "Avaliação dos KPIs e correção de rota por plano de ação. [cite: 1049]"
+            },
+            {
+              "ritual": "Revisão de Metas",
+              "frequency": "Mensal",
+              [cite_start]"objective": "Análise dos resultados do mês, aprendizado e replanejamento. [cite: 1049, 1052]"
+            }
+          ],
+          "goal_setting": {
+            [cite_start]"framework": "O Balanced Scorecard (BSC) é o sistema oficial de metas, métricas e resultados da rede V4 Company, organizando a operação em seis áreas: Monetização, Aquisição, Governança, Operações, Financeiro e Pessoas. [cite: 1069, 1071]",
+            [cite_start]"operacao_sonho_grande": "Movimento estratégico para alinhar metas de forma cascateada, da holding até o indivíduo, garantindo que todos remem na mesma direção. [cite: 1091, 1092]",
+            [cite_start]"key_goals": "Foco em no máximo 5 metas-chave: Crescimento de Receita Total, Receita Nova, Manutenção da Base de Receita, NRR e NPS. [cite: 1100, 1118, 1120]"
+          }
+        },
+        "p_processes_gtm": {
+          [cite_start]"core_idea": "Mudar o centro de gravidade de 'pessoas' para 'processos'. [cite: 1139] [cite_start]Empresas centradas em processos ganham estabilidade e eficiência à medida que crescem. [cite: 1147] [cite_start]A pergunta deve ser 'O que causou?', e não 'Quem causou?'. [cite: 1162]",
+          [cite_start]"bowtie_framework": "Estrutura a jornada do cliente em Aquisição, Retenção e Expansão, utilizando processos operacionais padronizados em cada etapa para garantir previsibilidade e qualidade. [cite: 1186, 1187]",
+          [cite_start]"ai_first_mindset": "Adoção da IA como um motor de produtividade e escala. [cite: 1238] [cite_start]Tudo o que pode ser acelerado ou melhorado com IA, deve ser. [cite: 1240] [cite_start]A IA não substitui a liderança, mas a amplifica. [cite: 1287]",
+          "revenue_architecture": {
+            [cite_start]"principles": "A receita recorrente é o resultado de um impacto recorrente, e os efeitos levam tempo para se materializar. [cite: 1316, 1318]",
+            "six_models": [
+              [cite_start]"Revenue Model (Como ganhamos dinheiro). [cite: 1322, 1331]",
+              [cite_start]"Data Model (Como medimos o sucesso - Bowtie). [cite: 1323, 1334]",
+              [cite_start]"Mathematical Model (Os KPIs críticos para o crescimento). [cite: 1325, 1336]",
+              [cite_start]"Operating Model (Os processos que garantem a execução). [cite: 1326, 1339]",
+              [cite_start]"Growth Model (Como escalamos com eficiência). [cite: 1327, 1342]",
+              [cite_start]"GTM Model (Como nos organizamos para ir ao mercado). [cite: 1328, 1344]"
+            ]
+          }
+        },
+        "s_systems": {
+          [cite_start]"purpose": "Usar tecnologia para padronizar a execução, garantir controle, dar visibilidade em tempo real e mitigar falhas humanas. [cite: 1436, 1438, 1439, 1442]",
+          "official_systems": [
+            {
+              "area": "Financeiro",
+              "system": "Conta Azul",
+              [cite_start]"function": "Gestão contábil e financeira. [cite: 1446]"
+            },
+            {
+              "area": "Pessoas",
+              "system": "WFM, Staage, Inhire",
+              [cite_start]"function": "Gestão de produtividade, desenvolvimento e recrutamento. [cite: 1446]"
+            },
+            {
+              "area": "PE&G",
+              "system": "HOPS, Ekyte",
+              [cite_start]"function": "Gestão da jornada do cliente, projetos e tarefas. [cite: 1446]"
+            },
+            {
+              "area": "Aquisição",
+              "system": "Sales Force, API4Com",
+              [cite_start]"function": "Acompanhamento de funil e automação de leads. [cite: 1446]"
+            },
+            {
+              "area": "Compliance",
+              "system": "Ethics",
+              [cite_start]"function": "Canal de denúncias para garantir governança e ética na nossa rede. [cite: 1446]"
+            }
+          ]
+        }
+      }
+    },
+    "governance": {
+      "partnership_program": {
+        [cite_start]"definition": "Um modelo de sociedade vivo que reconhece e recompensa os indivíduos que constroem valor real para a companhia, permitindo que os melhores talentos se tornem sócios. [cite: 202, 203, 204]",
+        "modalities": [
+          {
+            "type": "Equity Partner (Phantom Share)",
+            [cite_start]"description": "Modelo de entrada, com direito econômico, mas sem direito político e sem dividendos. [cite: 218, 220]"
+          },
+          {
+            "type": "Equity Owner",
+            [cite_start]"description": "Possui participação no contrato social, direitos econômicos, recebe dividendos e é indicado para lideranças estratégicas. [cite: 221, 222, 223]"
+          }
+        ],
+        [cite_start]"valuation_entry_formula": "Valuation = 5x receita. [cite: 230]",
+        "exit_formulas": {
+          [cite_start]"low_performance_voluntary": "(FCF * (50 * CAGR)) / 2. [cite: 234, 236]",
+          [cite_start]"involuntary_strategic": "FCF * (50 * CAGR). [cite: 239]"
+        },
+        [cite_start]"vesting": "Período de 12 meses de avaliação antes da formalização da compra de ações. [cite: 246, 249]"
+      },
+      "compliance_franchisee": {
+        "responsibilities": [
+          [cite_start]"Administrar a franquia pessoalmente e supervisionar a equipe. [cite: 277]",
+          [cite_start]"Observar e cumprir todas as leis e regulamentos aplicáveis. [cite: 278]",
+          [cite_start]"Pagar royalties e outras taxas conforme contrato. [cite: 279]",
+          [cite_start]"Garantir a inexistência de vínculo trabalhista com a franqueadora. [cite: 283]",
+          [cite_start]"Prestar os serviços seguindo estritamente as orientações da franqueadora. [cite: 290]",
+          [cite_start]"Garantir a isenção de responsabilidade da franqueadora em processos judiciais. [cite: 297]"
+        ],
+        "key_risks": {
+          [cite_start]"brand_reputational": "A marca precisa ser forte e inviolável. [cite: 310]",
+          [cite_start]"labor": "As metodologias de contratação não tradicionais exigem cuidado para evitar ações trabalhistas em massa. [cite: 312, 313]",
+          [cite_start]"organizational": "A falta de sinergia e seriedade na implementação das medidas pode fragilizar a rede de dentro para fora. [cite: 315, 316]",
+          [cite_start]"fiscal": "A legislação tributária no Brasil é extremamente rigorosa, com multas que podem variar de 75% a 225%. [cite: 318]"
+        },
+        "legal_shield_program": {
+          [cite_start]"description": "Ação coordenada para garantir a conformidade trabalhista, tributária e de dados em todas as unidades. [cite: 332]",
+          "pillars": [
+            {
+              "name": "Adequação Trabalhista",
+              [cite_start]"details": "Implementação obrigatória de contratação via SLU (PJ para salários > R$4k, com formação técnica) ou CLT (para salários < R$4k, atividades repetitivas). [cite: 339, 340, 341, 344, 345]"
+            },
+            {
+              "name": "Ambientação LGPD",
+              [cite_start]"details": "Treinamentos sobre boas práticas na gestão de dados para todos os membros da unidade. [cite: 346]"
+            },
+            {
+              "name": "Otimização Tributária",
+              [cite_start]"details": "Implementação de teses de otimização tributária, exigindo clareza no processo de faturamento. [cite: 348, 349]"
+            }
+          ]
+        }
+      }
+    },
+    "unification_plan": {
+      [cite_start]"concept": "Substituir os 'tiers' por 'horizontes' de adequação para estruturar o plano de unificação da rede. [cite: 357]",
+      "horizons_by_mrr": [
+        {
+          "horizon": 1,
+          [cite_start]"mrr": "Menos de R$ 60.000,00 (para unidades com mais de 9 meses). [cite: 359]"
+        },
+        {
+          "horizon": 2,
+          [cite_start]"mrr": "Entre R$ 60.000,00 e menos de R$ 150.000,00. [cite: 360]"
+        },
+        {
+          "horizon": 3,
+          [cite_start]"mrr": "Entre R$ 150.000,00 e menos de R$ 600.000,00. [cite: 361]"
+        },
+        {
+          "horizon": 4,
+          [cite_start]"mrr": "Acima de R$ 600.000,00. [cite: 362]"
+        },
+        {
+          "horizon": 5,
+          [cite_start]"mrr": "Acima de R$ 600.000,00 (para quem já exerceu mandato de Master). [cite: 363]"
+        }
+      ],
+      [cite_start]"regional_directorates_role": "Unidades de referência responsáveis por auxiliar na implementação do Plano de Unificação, servindo de exemplo, replicando boas práticas e facilitando processos de M&A. [cite: 367, 370, 371]"
+    },
+    "meeting_culture_meet": {
+      [cite_start]"problem": "Executivos gastam tempo excessivo em reuniões improdutivas, o que custa bilhões às empresas e mata a produtividade. [cite: 1909, 1910]",
+      "framework": [
+        {
+          "letter": "M",
+          "rule": "Máximo de 10h/semana",
+          [cite_start]"description": "Limitar o tempo em reuniões internas a no máximo 10 horas por semana para cada pessoa, tratando o tempo como um orçamento. [cite: 1924, 1927, 1933]"
+        },
+        {
+          "letter": "E",
+          "rule": "Esteja Presente",
+          [cite_start]"description": "Implementar a regra do 'Modo Avião': celulares desligados e laptops fechados para eliminar o multitasking, que reduz a retenção de informação em 40%. [cite: 1937, 1938, 1939]"
+        },
+        {
+          "letter": "E",
+          "rule": "Elimine Slides",
+          [cite_start]"description": "Banir slides para decisões internas, substituindo-os por documentos de uma página (one-pagers) para aumentar a clareza e acelerar a tomada de decisão. [cite: 1948, 1951]"
+        },
+        {
+          "letter": "T",
+          "rule": "Tem que ser Irreversível",
+          [cite_start]"description": "Só marcar reuniões para decisões irreversíveis ou conflitos de prioridades. [cite: 1964, 1968] [cite_start]A maioria dos alinhamentos pode ser resolvida de forma assíncrona. [cite: 1965]"
+        }
+      ]
+    }
+  }
+}
