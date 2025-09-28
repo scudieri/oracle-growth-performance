@@ -1,0 +1,831 @@
+{
+  "cargos_oxicore_co": [
+    {
+      "cargo": "Coordenador Comercial",
+      "competencias": [
+        {
+          "competencia": "Conhecimento em processo de vendas e funil de marketing",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Domínio sobre as etapas do funil de marketing e do processo de vendas, desde a captação do lead até o fechamento da venda.",
+          "comportamentos_observaveis": [
+            "Consegue diagnosticar gargalos no funil de vendas e propor soluções.",
+            "Estrutura e otimiza processos de qualificação e nutrição de leads.",
+            "Acompanha as métricas de conversão em cada etapa do funil.",
+            "Elabora e implementa estratégias para aumentar a eficiência do funil de vendas."
+          ]
+        },
+        {
+          "competencia": "Conhecimento sobre os produtos V4",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Entendimento profundo sobre todos os produtos e serviços oferecidos pela V4 Company, incluindo seus diferenciais e aplicações.",
+          "comportamentos_observaveis": [
+            "Apresenta os produtos de forma clara e persuasiva.",
+            "Sabe indicar o produto ideal para a necessidade de cada cliente.",
+            "Responde a dúvidas complexas sobre os produtos com segurança.",
+            "Identifica oportunidades de upsell e cross-sell com base no conhecimento dos produtos."
+          ]
+        },
+        {
+          "competencia": "Técnicas de Negociação e Persuasão",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de conduzir negociações complexas, contornar objeções e utilizar técnicas de persuasão para fechar negócios.",
+          "comportamentos_observaveis": [
+            "Consegue reverter situações de objeção e transformar 'não' em 'sim'.",
+            "Aplica gatilhos mentais e outras técnicas de persuasão de forma ética.",
+            "Sabe identificar o momento certo de fazer uma oferta e fechar a venda.",
+            "Mantém a calma e o controle durante negociações difíceis."
+          ]
+        },
+        {
+          "competencia": "Análise de Dados e Métricas de Vendas",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Capacidade de analisar dados de vendas, identificar tendências e tomar decisões baseadas em métricas.",
+          "comportamentos_observaveis": [
+            "Utiliza o CRM e outras ferramentas para extrair dados relevantes.",
+            "Elabora relatórios de vendas com análises e insights.",
+            "Identifica padrões e tendências nos dados de vendas.",
+            "Usa as métricas para ajustar a estratégia de vendas e melhorar os resultados."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Oratória",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de se comunicar de forma clara, objetiva e persuasiva, tanto na escrita quanto na fala.",
+          "comportamentos_observaveis": [
+            "Realiza apresentações de vendas impactantes e convincentes.",
+            "Comunica-se de forma clara e profissional com clientes e equipe.",
+            "Adapta a sua comunicação para diferentes públicos e situações.",
+            "Sabe ouvir o cliente e entender as suas reais necessidades."
+          ]
+        },
+        {
+          "competencia": "Liderança e Gestão de Pessoas",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de liderar, motivar e desenvolver a equipe de vendas, garantindo o alinhamento com os objetivos da empresa.",
+          "comportamentos_observaveis": [
+            "Define metas claras e desafiadoras para a equipe.",
+            "Oferece feedback constante e construtivo.",
+            "Promove um ambiente de trabalho positivo e colaborativo.",
+            "Identifica e desenvolve os talentos da equipe."
+          ]
+        },
+        {
+          "competencia": "Resolução de Problemas",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Habilidade de identificar, analisar e solucionar problemas de forma rápida e eficiente.",
+          "comportamentos_observaveis": [
+            "Antecipa-se aos problemas e age de forma proativa.",
+            "Busca soluções criativas e inovadoras para os desafios.",
+            "Toma decisões assertivas mesmo sob pressão.",
+            "Aprende com os erros e busca a melhoria contínua."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "BDR/SDR",
+      "competencias": [
+        {
+          "competencia": "Organização e Gestão do Tempo",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de priorizar tarefas, gerenciar o tempo de forma eficiente e manter um alto nível de organização.",
+          "comportamentos_observaveis": [
+            "Mantém o CRM sempre atualizado.",
+            "Segue uma rotina de prospecção disciplinada.",
+            "Cumpre os prazos e as metas estabelecidas.",
+            "Sabe lidar com um grande volume de leads sem perder a qualidade."
+          ]
+        },
+        {
+          "competencia": "Comunicação Escrita e Verbal",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de se comunicar de forma clara, objetiva e persuasiva, tanto na escrita quanto na fala.",
+          "comportamentos_observaveis": [
+            "Elabora e-mails de prospecção que geram resposta.",
+            "Conduz chamadas de qualificação de forma eficiente.",
+            "Adapta a sua comunicação para diferentes perfis de leads.",
+            "Sabe ouvir o lead e entender as suas dores e necessidades."
+          ]
+        },
+        {
+          "competencia": "Conhecimento do Produto/Serviço",
+          "nivel_peso": "Intermediário (4)",
+          "descricao": "Entendimento claro sobre o que a V4 oferece, para conseguir qualificar os leads e gerar interesse.",
+          "comportamentos_observaveis": [
+            "Sabe explicar o que a V4 faz de forma simples e direta.",
+            "Consegue identificar se o lead tem fit com a solução.",
+            "Responde a dúvidas básicas sobre o produto/serviço.",
+            "Desperta a curiosidade do lead para saber mais."
+          ]
+        },
+        {
+          "competencia": "Técnicas de Prospecção e Qualificação",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Domínio de técnicas de prospecção (cold call, cold mail, social selling) e qualificação de leads (SPIN, BANT, etc.).",
+          "comportamentos_observaveis": [
+            "Utiliza diferentes canais para prospectar novos leads.",
+            "Sabe fazer as perguntas certas para qualificar um lead.",
+            "Consegue gerar rapport e criar uma conexão com o lead.",
+            "Agenda reuniões qualificadas para o time de vendas."
+          ]
+        },
+        {
+          "competencia": "Resiliência e Inteligência Emocional",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de lidar com a rejeição, manter a motivação e controlar as emoções diante dos desafios.",
+          "comportamentos_observaveis": [
+            "Não se abala com o 'não' e continua prospectando.",
+            "Mantém uma atitude positiva e proativa.",
+            "Sabe lidar com a pressão por resultados.",
+            "Busca aprender com os erros e melhorar continuamente."
+          ]
+        },
+        {
+          "competencia": "Curiosidade e Aprendizado Contínuo",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Vontade de aprender sobre o mercado, o cliente, o produto e as melhores práticas de vendas.",
+          "comportamentos_observaveis": [
+            "Pesquisa sobre os leads antes de entrar em contato.",
+            "Acompanha as notícias e as tendências do mercado.",
+            "Busca feedback e dicas para melhorar o seu desempenho.",
+            "Participa de treinamentos e cursos para se aprimorar."
+          ]
+        },
+        {
+          "competencia": "Foco em Resultados",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Orientação para o atingimento de metas e a busca por resultados cada vez melhores.",
+          "comportamentos_observaveis": [
+            "É movido por metas e desafios.",
+            "Busca superar as suas metas de forma consistente.",
+            "Tem iniciativa e não espera as coisas acontecerem.",
+            "Celebra as suas conquistas e as da equipe."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "Coordenador de PE&G",
+      "competencias": [
+        {
+          "competencia": "Visão Estratégica",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de alinhar as entregas da squad com os objetivos estratégicos do cliente e da V4, antecipando tendências e identificando oportunidades de crescimento. Consegue traduzir metas de negócio em planos de ação táticos.",
+          "comportamentos_observaveis": [
+            "Elabora planejamentos que conectam as ações do dia a dia com os resultados de longo prazo do cliente.",
+            "Questiona o 'porquê' das solicitações para garantir que as entregas gerem valor real.",
+            "Identifica proativamente oportunidades de upsell e cross-sell que beneficiem o cliente.",
+            "Mantém-se atualizado sobre o mercado do cliente para propor inovações relevantes."
+          ]
+        },
+        {
+          "competencia": "Liderança e Desenvolvimento de Pessoas",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de engajar, motivar e desenvolver os membros da squad, promovendo um ambiente de alta performance, colaboração e aprendizado contínuo. Atua como um mentor, guiando o time para alcançar seu máximo potencial.",
+          "comportamentos_observaveis": [
+            "Realiza 1:1s semanais focados no desenvolvimento individual e na remoção de bloqueios.",
+            "Oferece feedbacks claros, construtivos e acionáveis, tanto de reforço quanto de correção.",
+            "Delega tarefas de forma inteligente, capacitando o time e promovendo autonomia.",
+            "Cria um ambiente seguro onde os membros se sentem à vontade para errar, aprender e propor novas ideias."
+          ]
+        },
+        {
+          "competencia": "Gestão de Projetos e Processos",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Domínio de metodologias de gestão de projetos (Scrum, Kanban) para garantir que as entregas sejam feitas no prazo, dentro do escopo e com a qualidade esperada. Capacidade de otimizar processos para aumentar a eficiência da squad.",
+          "comportamentos_observaveis": [
+            "Utiliza o Ekyte para gerenciar o fluxo de trabalho, garantindo visibilidade e controle sobre as tarefas.",
+            "Conduz rituais ágeis (dailys, plannings, reviews) de forma produtiva e focada.",
+            "Identifica e remove gargalos nos processos da squad, buscando a melhoria contínua.",
+            "Gerencia múltiplos projetos simultaneamente, priorizando tarefas e alocando recursos de forma eficaz."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Gestão de Stakeholders",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de se comunicar de forma clara, assertiva e transparente com todos os envolvidos (clientes, time, liderança), gerenciando expectativas e construindo relacionamentos de confiança.",
+          "comportamentos_observaveis": [
+            "Conduz reuniões com clientes de forma estratégica, apresentando resultados e alinhando os próximos passos.",
+            "Comunica decisões difíceis de forma empática e transparente.",
+            "Age como um facilitador, garantindo que a comunicação entre o cliente e a equipe seja fluida e sem ruídos.",
+            "Reporta o status dos projetos para a liderança de forma clara e objetiva."
+          ]
+        },
+        {
+          "competencia": "Análise de Dados e Foco em Resultados",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Habilidade de analisar métricas de performance (CPA, ROAS, LTV, etc.) para avaliar a eficácia das estratégias e tomar decisões baseadas em dados. Mantém um foco incansável em gerar resultados tangíveis para o cliente.",
+          "comportamentos_observaveis": [
+            "Apresenta relatórios que vão além dos números, trazendo análises, aprendizados e planos de ação.",
+            "Utiliza dados para justificar decisões e otimizar campanhas.",
+            "Questiona a equipe sobre os resultados das ações, incentivando uma cultura orientada a dados.",
+            "Conecta as métricas operacionais com os objetivos de negócio do cliente."
+          ]
+        },
+        {
+          "competencia": "Resolução de Problemas e Tomada de Decisão",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de identificar problemas complexos, analisar suas causas e implementar soluções eficazes de forma ágil. Sabe tomar decisões difíceis, mesmo com informações limitadas, assumindo a responsabilidade pelos resultados.",
+          "comportamentos_observaveis": [
+            "Não espera os problemas escalarem; age de forma proativa para resolvê-los na raiz.",
+            "Envolve o time na solução de problemas, mas assume a decisão final quando necessário.",
+            "Analisa diferentes cenários e escolhe o caminho que oferece o melhor equilíbrio entre risco e retorno.",
+            "Aprende com os erros e utiliza a experiência para tomar decisões melhores no futuro."
+          ]
+        },
+        {
+          "competencia": "Inteligência Emocional e Gestão de Conflitos",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Habilidade de manter a calma sob pressão, gerenciar as próprias emoções e as da equipe, e mediar conflitos de forma construtiva, transformando divergências em oportunidades de crescimento.",
+          "comportamentos_observaveis": [
+            "Mantém uma postura equilibrada e profissional mesmo em situações de crise.",
+            "Escuta ativamente as diferentes perspectivas em um conflito antes de intervir.",
+            "Facilita conversas difíceis, buscando o entendimento e a construção de soluções em conjunto.",
+            "Reconhece e valida as emoções da equipe, criando um ambiente de segurança psicológica."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "Analista de I.A.",
+      "competencias": [
+        {
+          "competencia": "Fundamentos de Inteligência Artificial e Machine Learning",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Compreensão sólida dos conceitos, algoritmos e técnicas fundamentais de IA e Machine Learning (ex: regressão, classificação, clustering, redes neurais).",
+          "comportamentos_observaveis": [
+            "Explica conceitos complexos de IA de forma simples e clara.",
+            "Escolhe o modelo/algoritmo mais adequado para resolver um problema específico.",
+            "Avalia a performance de modelos utilizando métricas apropriadas (acurácia, precisão, recall, F1-score).",
+            "Entende as limitações e os vieses potenciais dos modelos de IA."
+          ]
+        },
+        {
+          "competencia": "Programação e Bibliotecas de IA",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Proficiência em linguagens de programação como Python e domínio das principais bibliotecas de IA e ML (ex: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy).",
+          "comportamentos_observaveis": [
+            "Escreve código limpo, eficiente e bem documentado para treinar e avaliar modelos.",
+            "Manipula e pré-processa grandes volumes de dados usando Pandas e NumPy.",
+            "Implementa pipelines de Machine Learning de ponta a ponta.",
+            "Depura e otimiza o código para melhorar a performance dos modelos."
+          ]
+        },
+        {
+          "competencia": "Engenharia e Pré-processamento de Dados",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de coletar, limpar, transformar e preparar dados para serem utilizados em modelos de Machine Learning. Habilidade em engenharia de features.",
+          "comportamentos_observaveis": [
+            "Identifica e trata dados faltantes, outliers e inconsistências.",
+            "Aplica técnicas de normalização e padronização de dados.",
+            "Cria novas features a partir dos dados brutos para melhorar a performance do modelo.",
+            "Trabalha com diferentes fontes de dados (bancos de dados, APIs, arquivos)."
+          ]
+        },
+        {
+          "competencia": "Visão de Negócio e Resolução de Problemas",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Habilidade de traduzir problemas de negócio em problemas de Machine Learning e aplicar técnicas de IA para gerar valor real para a empresa e os clientes.",
+          "comportamentos_observaveis": [
+            "Faz as perguntas certas para entender o problema de negócio a fundo.",
+            "Define métricas de sucesso que estão alinhadas com os objetivos do negócio.",
+            "Comunica os resultados e insights dos modelos de forma clara para stakeholders não-técnicos.",
+            "É proativo em identificar oportunidades de aplicar IA para resolver problemas existentes."
+          ]
+        },
+        {
+          "competencia": "Experimentação e Metodologia Científica",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de desenhar, executar e analisar experimentos de forma rigorosa para validar hipóteses e melhorar os modelos de IA.",
+          "comportamentos_observaveis": [
+            "Define hipóteses claras e mensuráveis antes de iniciar um experimento.",
+            "Utiliza técnicas de validação cruzada para avaliar a generalização dos modelos.",
+            "Documenta os experimentos de forma detalhada para garantir a reprodutibilidade.",
+            "Analisa os resultados dos experimentos de forma crítica e tira conclusões baseadas em evidências."
+          ]
+        },
+        {
+          "competencia": "Aprendizado Contínuo e Curiosidade",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Vontade e capacidade de se manter atualizado sobre as últimas tendências, pesquisas e tecnologias em IA e Machine Learning.",
+          "comportamentos_observaveis": [
+            "Lê artigos científicos e blogs técnicos da área.",
+            "Experimenta novas ferramentas e bibliotecas.",
+            "Participa de comunidades, conferências e cursos online.",
+            "Compartilha o conhecimento adquirido com o resto da equipe."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Colaboração",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Habilidade de trabalhar de forma eficaz em equipe, colaborar com outros analistas e engenheiros, e comunicar ideias e resultados de forma clara.",
+          "comportamentos_observaveis": [
+            "Participa ativamente das discussões técnicas da equipe.",
+            "Colabora com outros membros do time em projetos compartilhados.",
+            "Pede e oferece ajuda quando necessário.",
+            "Documenta seu trabalho de forma que outros possam entender e dar continuidade."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "Coordenador Administrativo",
+      "competencias": [
+        {
+          "competencia": "Gestão Financeira e Orçamentária",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Domínio completo sobre DRE, DFC, e planejamento orçamentário. Capacidade de analisar a saúde financeira da unidade, controlar custos e garantir a lucratividade.",
+          "comportamentos_observaveis": [
+            "Elabora e acompanha o orçamento anual da unidade, identificando desvios e propondo correções.",
+            "Analisa o DRE mensalmente e apresenta insights para a diretoria.",
+            "Gerencia o fluxo de caixa (DFC) para garantir a liquidez e a sustentabilidade da operação.",
+            "Implementa políticas de redução de custos sem comprometer a qualidade."
+          ]
+        },
+        {
+          "competencia": "Liderança e Desenvolvimento de Equipe",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Habilidade de liderar, treinar e desenvolver a equipe administrativa e financeira, garantindo a execução dos processos com eficiência e precisão.",
+          "comportamentos_observaveis": [
+            "Delega tarefas e responsabilidades, capacitando a equipe.",
+            "Realiza 1:1s focados no desenvolvimento e performance do time.",
+            "Oferece feedbacks claros e construtivos para a equipe.",
+            "Promove um ambiente de trabalho organizado e colaborativo."
+          ]
+        },
+        {
+          "competencia": "Gestão de Processos e Compliance",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de desenhar, implementar e otimizar processos administrativos e financeiros. Garante que a unidade opere em conformidade com as políticas da V4 e a legislação vigente.",
+          "comportamentos_observaveis": [
+            "Mapeia e documenta os processos da área, buscando sempre a melhoria contínua.",
+            "Garante a correta emissão de notas fiscais e o cumprimento das obrigações fiscais.",
+            "Assegura que os processos de contratação e desligamento sigam o padrão Legal Shield.",
+            "Realiza auditorias internas para garantir o compliance dos processos."
+          ]
+        },
+        {
+          "competencia": "Visão Analítica e Tomada de Decisão",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de transformar dados financeiros e administrativos em informações estratégicas para a tomada de decisão. Utiliza indicadores para guiar a gestão da unidade.",
+          "comportamentos_observaveis": [
+            "Cria e analisa relatórios gerenciais para apoiar a tomada de decisão.",
+            "Utiliza o ContaAzul e outros sistemas para extrair dados e gerar insights.",
+            "Toma decisões baseadas em fatos e dados, não em achismos.",
+            "Prevê cenários e se antecipa a possíveis problemas financeiros."
+          ]
+        },
+        {
+          "competencia": "Negociação e Gestão de Fornecedores",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Habilidade de negociar com fornecedores e parceiros, buscando as melhores condições comerciais e garantindo a qualidade dos serviços prestados.",
+          "comportamentos_observaveis": [
+            "Realiza cotações e negocia contratos com fornecedores.",
+            "Busca constantemente otimizar os custos com fornecedores.",
+            "Mantém um bom relacionamento com os parceiros estratégicos.",
+            "Avalia a performance dos fornecedores e busca alternativas quando necessário."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Relacionamento Interpessoal",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de se comunicar de forma clara e eficaz com todas as áreas da empresa, da diretoria aos investidores, garantindo o alinhamento e a colaboração.",
+          "comportamentos_observaveis": [
+            "Comunica as informações financeiras de forma clara e objetiva para não especialistas.",
+            "Interage de forma profissional e colaborativa com as outras lideranças.",
+            "É o ponto de contato para a resolução de questões administrativas e financeiras.",
+            "Mantém a franqueadora informada sobre a saúde financeira da unidade."
+          ]
+        },
+        {
+          "competencia": "Organização e Planejamento",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de planejar e organizar as atividades da área administrativa e financeira, garantindo que os prazos sejam cumpridos e que a operação flua sem gargalos.",
+          "comportamentos_observaveis": [
+            "Estabelece um calendário de rotinas e fechamentos mensais.",
+            "Prioriza as tarefas da equipe de acordo com a urgência e o impacto.",
+            "Mantém os documentos e registros da empresa organizados e acessíveis.",
+            "Planeja com antecedência as necessidades de recursos da área."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "People & Performance",
+      "competencias": [
+        {
+          "cha": "CONHECIMENTO",
+          "competencia": "Conhecimento em subsistemas de RH",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Domínio sobre os principais subsistemas de RH: Recrutamento e Seleção, Treinamento e Desenvolvimento, Cargos e Salários, Avaliação de Desempenho, Clima Organizacional e Endomarketing.",
+          "comportamentos_observaveis": [
+            "Estrutura e conduz processos seletivos de ponta a ponta.",
+            "Elabora e aplica programas de treinamento e desenvolvimento.",
+            "Implementa e gerencia o sistema de avaliação de desempenho.",
+            "Desenvolve e executa ações de endomarketing e clima organizacional."
+          ]
+        },
+        {
+          "cha": "CONHECIMENTO",
+          "competencia": "Análise de Dados e People Analytics",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Capacidade de coletar, analisar e interpretar dados de RH para gerar insights e apoiar a tomada de decisão estratégica.",
+          "comportamentos_observaveis": [
+            "Calcula e analisa os principais indicadores de RH (turnover, absenteísmo, etc.).",
+            "Elabora relatórios e dashboards com dados de People Analytics.",
+            "Utiliza dados para identificar tendências e prever problemas.",
+            "Apresenta insights baseados em dados para a liderança."
+          ]
+        },
+        {
+          "cha": "CONHECIMENTO",
+          "competencia": "Legislação Trabalhista e Compliance",
+          "nivel_peso": "Intermediário (4)",
+          "descricao": "Conhecimento sobre a legislação trabalhista e as melhores práticas de compliance para garantir a segurança jurídica da empresa.",
+          "comportamentos_observaveis": [
+            "Orienta a liderança sobre as melhores práticas de contratação e desligamento.",
+            "Garante que os processos de RH estejam em conformidade com a lei.",
+            "Atua na prevenção de passivos trabalhistas.",
+            "Mantém-se atualizado sobre as mudanças na legislação."
+          ]
+        },
+        {
+          "cha": "HABILIDADE",
+          "competencia": "Comunicação e Relacionamento Interpessoal",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de se comunicar de forma clara, empática e assertiva com todos os níveis da organização, construindo relacionamentos de confiança.",
+          "comportamentos_observaveis": [
+            "Conduz conversas difíceis com sensibilidade e profissionalismo.",
+            "É um bom ouvinte e sabe acolher as demandas dos colaboradores.",
+            "Comunica as políticas e os processos de RH de forma clara e objetiva.",
+            "Atua como um facilitador da comunicação entre líderes e liderados."
+          ]
+        },
+        {
+          "cha": "HABILIDADE",
+          "competencia": "Gestão de Projetos e Organização",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de planejar, executar e gerenciar múltiplos projetos de RH simultaneamente, garantindo a entrega no prazo e com qualidade.",
+          "comportamentos_observaveis": [
+            "Define escopo, cronograma e recursos para os projetos de RH.",
+            "Acompanha o andamento dos projetos e resolve os gargalos.",
+            "Mantém a documentação e os processos de RH organizados.",
+            "Prioriza as demandas de acordo com a estratégia da empresa."
+          ]
+        },
+        {
+          "cha": "ATITUDE",
+          "competencia": "Empatia e Foco no Colaborador",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de se colocar no lugar do outro e de tomar decisões que equilibrem as necessidades da empresa e dos colaboradores.",
+          "comportamentos_observaveis": [
+            "Busca entender as necessidades e as expectativas dos colaboradores.",
+            "Propõe soluções que melhorem a experiência do colaborador.",
+            "Atua como um guardião da cultura e dos valores da empresa.",
+            "É visto como um ponto de apoio e confiança pelos colaboradores."
+          ]
+        },
+        {
+          "cha": "ATITUDE",
+          "competencia": "Proatividade e Visão Estratégica",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Atitude proativa na identificação de oportunidades de melhoria e na proposição de soluções que agreguem valor ao negócio.",
+          "comportamentos_observaveis": [
+            "Antecipa-se aos problemas e age para preveni-los.",
+            "Busca constantemente por inovações e melhores práticas de RH.",
+            "Alinha as estratégias de RH com os objetivos da empresa.",
+            "Atua como um parceiro estratégico da liderança."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "Analista Financeiro",
+      "competencias": [
+        {
+          "competencia": "Conhecimentos Contábeis e Fiscais",
+          "nivel_peso": "Intermediário (4)",
+          "descricao": "Entendimento dos princípios contábeis básicos e da legislação fiscal para garantir a conformidade das operações financeiras.",
+          "comportamentos_observaveis": [
+            "Realiza a conciliação bancária com precisão.",
+            "Garante a correta emissão e recebimento de notas fiscais.",
+            "Auxilia no fechamento contábil e fiscal mensal.",
+            "Mantém-se atualizado sobre as principais mudanças na legislação."
+          ]
+        },
+        {
+          "competencia": "Gestão de Contas a Pagar e a Receber",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Domínio sobre os processos de contas a pagar e a receber, garantindo o controle do fluxo de caixa e a saúde financeira da empresa.",
+          "comportamentos_observaveis": [
+            "Agenda e realiza os pagamentos dentro do prazo.",
+            "Realiza a cobrança de clientes inadimplentes de forma eficaz.",
+            "Controla o fluxo de caixa diário e projeta as necessidades futuras.",
+            "Negocia prazos e condições com fornecedores e clientes."
+          ]
+        },
+        {
+          "competencia": "Análise de Dados e Elaboração de Relatórios",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Capacidade de coletar, organizar e analisar dados financeiros para gerar relatórios que apoiem a tomada de decisão.",
+          "comportamentos_observaveis": [
+            "Elabora relatórios de fluxo de caixa, DRE e outros indicadores.",
+            "Utiliza o Excel e outras ferramentas para analisar os dados.",
+            "Identifica tendências e anomalias nos dados financeiros.",
+            "Apresenta os dados de forma clara e objetiva para a liderança."
+          ]
+        },
+        {
+          "competencia": "Organização e Atenção aos Detalhes",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de manter os registros financeiros organizados e de realizar as tarefas com um alto nível de precisão e atenção aos detalhes.",
+          "comportamentos_observaveis": [
+            "Mantém os arquivos e documentos financeiros em ordem.",
+            "Realiza as tarefas com o mínimo de erros.",
+            "Confere os dados e as informações antes de finalizar os processos.",
+            "Segue os procedimentos e as políticas financeiras da empresa."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Relacionamento Interpessoal",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Capacidade de se comunicar de forma clara e profissional com clientes, fornecedores e outras áreas da empresa.",
+          "comportamentos_observaveis": [
+            "Comunica-se de forma clara e objetiva por e-mail e telefone.",
+            "Mantém um bom relacionamento com os contatos financeiros de clientes e fornecedores.",
+            "Colabora com as outras áreas da empresa para resolver questões financeiras.",
+            "Sabe lidar com situações de cobrança de forma profissional."
+          ]
+        },
+        {
+          "competencia": "Proatividade e Resolução de Problemas",
+          "nivel_peso": "Intermediário (4)",
+          "descricao": "Atitude proativa na identificação e resolução de problemas financeiros do dia a dia.",
+          "comportamentos_observaveis": [
+            "Identifica e corrige erros e inconsistências nos registros financeiros.",
+            "Busca otimizar os processos financeiros para aumentar a eficiência.",
+            "Propõe soluções para os problemas que encontra.",
+            "Não espera ser demandado para agir."
+          ]
+        },
+        {
+          "competencia": "Ética e Confidencialidade",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Postura ética e compromisso com a confidencialidade das informações financeiras da empresa e de seus clientes.",
+          "comportamentos_observaveis": [
+            "Trata as informações financeiras com o máximo de sigilo.",
+            "Age com integridade e transparência em todas as situações.",
+            "Segue o código de conduta da empresa.",
+            "É uma pessoa de confiança para a liderança e para a equipe."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "Designers",
+      "competencias": [
+        {
+          "competencia": "Domínio de Ferramentas de Design",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Proficiência nas principais ferramentas de design gráfico e UI/UX (ex: Figma, Adobe Creative Suite - Photoshop, Illustrator, After Effects).",
+          "comportamentos_observaveis": [
+            "Cria layouts e protótipos de alta fidelidade no Figma.",
+            "Edita imagens e cria peças gráficas complexas no Photoshop/Illustrator.",
+            "Desenvolve animações e motion graphics no After Effects.",
+            "Busca constantemente aprender novas ferramentas e técnicas."
+          ]
+        },
+        {
+          "competencia": "Fundamentos de Design e UI/UX",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Sólido conhecimento em teoria das cores, tipografia, composição, hierarquia visual, usabilidade e princípios de design de interface e experiência do usuário.",
+          "comportamentos_observaveis": [
+            "Cria interfaces intuitivas e fáceis de usar.",
+            "Aplica os princípios de design para criar peças visualmente atraentes e eficazes.",
+            "Justifica suas decisões de design com base em fundamentos teóricos.",
+            "Desenvolve e mantém a consistência visual da marca."
+          ]
+        },
+        {
+          "competencia": "Criatividade e Geração de Ideias",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de gerar ideias originais e criativas que resolvam os problemas do cliente e atendam aos objetivos de negócio.",
+          "comportamentos_observaveis": [
+            "Participa ativamente de brainstorms e sessões de ideação.",
+            "Busca referências e inspirações em diversas fontes.",
+            "Apresenta soluções visuais inovadoras e fora do comum.",
+            "Não tem medo de experimentar e arriscar."
+          ]
+        },
+        {
+          "competencia": "Compreensão de Marketing e Negócios",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Entendimento de como o design se encaixa na estratégia de marketing e nos objetivos de negócio do cliente.",
+          "comportamentos_observaveis": [
+            "Cria peças que são não apenas bonitas, mas que também convertem.",
+            "Entende o público-alvo e adapta o design para ele.",
+            "Colabora com a equipe de marketing para criar campanhas integradas.",
+            "Mede o impacto do seu trabalho nos resultados do cliente."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Apresentação de Ideias",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Habilidade de comunicar e defender suas ideias e decisões de design de forma clara e persuasiva para a equipe e para o cliente.",
+          "comportamentos_observaveis": [
+            "Apresenta seu trabalho de forma confiante e articulada.",
+            "Justifica suas escolhas de design com argumentos sólidos.",
+            "Sabe receber e dar feedback de forma construtiva.",
+            "Colabora com outros membros da equipe para chegar na melhor solução."
+          ]
+        },
+        {
+          "competencia": "Organização e Gestão de Arquivos",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de organizar os arquivos e os projetos de forma lógica e eficiente, facilitando a colaboração e a manutenção.",
+          "comportamentos_observaveis": [
+            "Mantém os arquivos do Figma organizados com componentes e estilos.",
+            "Nomeia as camadas e os arquivos de forma clara e consistente.",
+            "Versiona o seu trabalho para não perder o histórico.",
+            "Facilita a vida dos outros membros da equipe com a sua organização."
+          ]
+        },
+        {
+          "competencia": "Proatividade e Aprendizado Contínuo",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Atitude proativa na busca por novos conhecimentos, tendências e tecnologias na área de design.",
+          "comportamentos_observaveis": [
+            "Acompanha blogs, podcasts e perfis de referência na área.",
+            "Realiza cursos e participa de eventos para se aprimorar.",
+            "Traz novas ideias e sugestões para a equipe.",
+            "É apaixonado por design e busca a excelência em tudo que faz."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "Gestores de Tráfego",
+      "competencias": [
+        {
+          "competencia": "Domínio das Plataformas de Anúncios",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Proficiência técnica nas principais plataformas de tráfego pago (Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads), incluindo todos os formatos de campanha, otimizações e políticas.",
+          "comportamentos_observaveis": [
+            "Cria e gerencia campanhas complexas em múltiplas plataformas.",
+            "Utiliza recursos avançados de segmentação, lances e otimização.",
+            "Resolve problemas técnicos e reprovações de anúncios com autonomia.",
+            "Mantém-se atualizado sobre todas as novidades e atualizações das ferramentas."
+          ]
+        },
+        {
+          "competencia": "Análise de Dados e Métricas",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de analisar profundamente os dados das campanhas, identificar padrões, gerar insights e tomar decisões baseadas em métricas (CPA, ROAS, CTR, CPL, etc.).",
+          "comportamentos_observaveis": [
+            "Cria dashboards e relatórios personalizados para acompanhar a performance.",
+            "Realiza análises aprofundadas para entender o porquê dos resultados.",
+            "Identifica oportunidades de otimização com base nos dados.",
+            "Comunica os resultados e aprendizados de forma clara para a equipe e o cliente."
+          ]
+        },
+        {
+          "competencia": "Planejamento Estratégico de Mídia",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Habilidade de traduzir os objetivos de negócio do cliente em um plano de mídia eficaz, definindo canais, orçamentos, públicos e estratégias de campanha.",
+          "comportamentos_observaveis": [
+            "Elabora planejamentos de mídia detalhados e bem fundamentados.",
+            "Recomenda o mix de canais ideal para cada objetivo.",
+            "Define metas e KPIs realistas para as campanhas.",
+            "Alinha a estratégia de mídia com as outras ações de marketing."
+          ]
+        },
+        {
+          "competencia": "Raciocínio Lógico e Resolução de Problemas",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de pensar de forma estruturada e analítica para diagnosticar problemas nas campanhas e encontrar soluções eficazes.",
+          "comportamentos_observaveis": [
+            "Identifica rapidamente a causa raiz de um problema de performance.",
+            "Testa hipóteses de forma metódica para encontrar a solução.",
+            "Não se desespera diante de resultados ruins; busca entender e reverter.",
+            "É criativo na busca por soluções para os desafios."
+          ]
+        },
+        {
+          "competencia": "Conhecimento em Copywriting e Criativos",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Entendimento dos princípios de copywriting e direção de arte para criar anúncios persuasivos e visualmente atraentes.",
+          "comportamentos_observaveis": [
+            "Escreve copys que chamam a atenção e geram cliques.",
+            "Sabe brifar a equipe de criação com clareza e objetividade.",
+            "Avalia a qualidade dos criativos e dá feedbacks construtivos.",
+            "Entende a importância da congruência entre copy, criativo e página de destino."
+          ]
+        },
+        {
+          "competencia": "Gestão de Orçamento",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Habilidade de gerenciar o orçamento de mídia do cliente de forma eficiente, garantindo o melhor retorno sobre o investimento.",
+          "comportamentos_observaveis": [
+            "Controla o pacing das campanhas para não estourar o orçamento.",
+            "Aloca o investimento entre os canais e campanhas de forma inteligente.",
+            "Busca constantemente otimizar o custo por resultado.",
+            "É transparente com o cliente sobre o uso do orçamento."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Alinhamento",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Capacidade de se comunicar de forma clara com a equipe (Account, Criação) e com o cliente, garantindo o alinhamento e a fluidez do trabalho.",
+          "comportamentos_observaveis": [
+            "Participa ativamente das reuniões e contribui com a sua expertise.",
+            "Comunica os resultados das campanhas de forma clara e objetiva.",
+            "Alinha as expectativas com o cliente sobre os resultados esperados.",
+            "Colabora com as outras áreas para garantir a integração das ações."
+          ]
+        }
+      ]
+    },
+    {
+      "cargo": "Account Manager",
+      "competencias": [
+        {
+          "competencia": "Visão Estratégica e de Negócio",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Capacidade de entender a fundo o negócio do cliente, seus desafios e oportunidades, e traduzir isso em estratégias de marketing que gerem resultados reais.",
+          "comportamentos_observaveis": [
+            "Faz as perguntas certas para entender os objetivos do cliente.",
+            "Conecta as ações de marketing com os indicadores de negócio.",
+            "Pensa no longo prazo e propõe soluções estratégicas.",
+            "É visto pelo cliente como um parceiro de negócio."
+          ]
+        },
+        {
+          "competencia": "Relacionamento Interpessoal e Confiança",
+          "nivel_peso": "Avançado (5)",
+          "descricao": "Habilidade de construir e manter relacionamentos sólidos e de confiança com os clientes, baseados em empatia, transparência e comunicação eficaz.",
+          "comportamentos_observaveis": [
+            "Cria rapport e se conecta com os clientes em um nível pessoal.",
+            "É proativo na comunicação e mantém o cliente sempre informado.",
+            "Sabe ouvir o cliente e entender suas reais necessidades.",
+            "É o porto seguro do cliente dentro da agência."
+          ]
+        },
+        {
+          "competencia": "Comunicação e Apresentação",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de se comunicar de forma clara, objetiva e persuasiva, tanto na escrita quanto em apresentações, vendendo ideias e defendendo o trabalho da agência.",
+          "comportamentos_observaveis": [
+            "Conduz reuniões com clareza, objetividade e energia.",
+            "Elabora apresentações de resultados que contam uma história.",
+            "Comunica notícias ruins de forma transparente e com plano de ação.",
+            "Defende o trabalho da equipe com argumentos sólidos."
+          ]
+        },
+        {
+          "competencia": "Gestão de Projetos e Organização",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Habilidade de gerenciar múltiplos projetos e clientes simultaneamente, garantindo que as entregas sejam feitas no prazo, com qualidade e dentro do escopo.",
+          "comportamentos_observaveis": [
+            "Mantém o Ekyte organizado e atualizado.",
+            "Define prioridades e gerencia o tempo de forma eficiente.",
+            "Garante que a equipe tenha tudo o que precisa para trabalhar.",
+            "Antecipa-se aos problemas e age para evitá-los."
+          ]
+        },
+        {
+          "competencia": "Análise de Dados e Foco em Resultados",
+          "nivel_peso": "Intermediário (3)",
+          "descricao": "Capacidade de analisar os resultados das campanhas, interpretar os dados e traduzir isso em insights e recomendações para o cliente.",
+          "comportamentos_observaveis": [
+            "Entende as principais métricas de marketing digital.",
+            "Analisa os relatórios e identifica os principais aprendizados.",
+            "Ajuda o cliente a entender os resultados e o que eles significam.",
+            "É focado em gerar resultados e não apenas em entregar tarefas."
+          ]
+        },
+        {
+          "competencia": "Resolução de Problemas e Gestão de Crises",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de identificar, analisar e solucionar problemas de forma rápida e eficiente, mantendo a calma e a confiança do cliente mesmo em situações de crise.",
+          "comportamentos_observaveis": [
+            "Não se desespera diante dos problemas; busca a solução.",
+            "Assume a responsabilidade e não busca culpados.",
+            "Comunica o problema ao cliente com transparência e plano de ação.",
+            "Transforma crises em oportunidades de fortalecer o relacionamento."
+          ]
+        },
+        {
+          "competencia": "Liderança e Influência",
+          "nivel_peso": "Avançado (4)",
+          "descricao": "Capacidade de liderar a equipe interna e influenciar o cliente a tomar as melhores decisões, mesmo sem ter autoridade formal sobre eles.",
+          "comportamentos_observaveis": [
+            "Motiva e engaja a equipe para entregar o melhor trabalho.",
+            "É o maestro da conta, garantindo que todos trabalhem em sintonia.",
+            "Consegue convencer o cliente a aprovar as melhores ideias.",
+            "Inspira confiança e respeito tanto do cliente quanto da equipe."
+          ]
+        }
+      ]
+    }
+  ]
+}
