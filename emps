@@ -1,0 +1,307 @@
+{
+  "emps_workbook": {
+    "document_title": "IMERSÃO E.M.P.S WORKBOOK",
+    "introduction_strategic_vision": {
+      [cite_start]"objective": "Garantir alinhamento sobre a visão da V4 acerca da estratégia para vencer o jogo e os próximos passos. [cite: 523]",
+      "ambition": {
+        [cite_start]"title": "O Jogo Infinito da V4 e o modelo CHAMP [cite: 524]",
+        [cite_start]"description": "A V4 busca a perpetuidade como maior empresa B2B de serviços do Brasil, entrando em uma fase de maturidade de rede e consolidação de um modelo de execução eficiente e padronizado. [cite: 525, 527] [cite_start]A estratégia está ancorada no modelo CHAMP, que guia a companhia rumo ao futuro. [cite: 528]"
+      },
+      "champ_model": {
+        [cite_start]"description": "O CHAMP é a síntese operacional que conecta metas de negócio com decisões diárias de liderança e direcionamento da companhia. [cite: 530]",
+        "pillars": [
+          {
+            "letter": "C",
+            "name": "Consumers",
+            [cite_start]"goal": "Impactar 100 milhões de consumidores pelo ecossistema V4 até 2030, através da implementação de jornadas que facilitam o processo de consumo. [cite: 532, 534, 536]"
+          },
+          {
+            "letter": "H",
+            "name": "Hosts",
+            [cite_start]"goal": "Conectar 100 mil empresas à plataforma da V4, que são nossos clientes diretos. [cite: 543, 544, 545]"
+          },
+          {
+            "letter": "A",
+            "name": "Annual Revenue",
+            [cite_start]"goal": "Atingir US$ 1 bilhão em receita anual, crescendo com margens saudáveis e um modelo de negócio escalável. [cite: 617, 618, 619]"
+          },
+          {
+            "letter": "M",
+            "name": "Milestone IPO",
+            [cite_start]"goal": "O IPO é o rito que consagra a maturidade de gestão, permitindo acessar capital. [cite: 625, 626] [cite_start]Requer padronização, governança e uma rede estruturalmente unificada. [cite: 630, 631]"
+          },
+          {
+            "letter": "P",
+            "name": "Perpetuity",
+            [cite_start]"goal": "Garantir a continuidade do sistema com ciclos de entrada, crescimento e saída de sócios bem estruturados, visando estar entre as 2000 empresas mais relevantes do mundo. [cite: 635, 636, 643, 647]"
+          }
+        ]
+      },
+      "single_entity_concept": {
+        [cite_start]"title": "O Conceito de Single Entity: De rede para companhia [cite: 663]",
+        [cite_start]"description": "Evoluir de múltiplas unidades operando com liberdade para uma companhia com padrão, sistema e cultura compartilhada. [cite: 667] [cite_start]O padrão não engessa, ele liberta tempo e energia para focar no que importa. [cite: 683, 685]",
+        "reasons": [
+          [cite_start]"Governança institucional para preparar a empresa para o IPO. [cite: 673]",
+          [cite_start]"Reconhecimento de marca com a mesma qualidade em qualquer lugar. [cite: 674]",
+          [cite_start]"Eficiência operacional para reduzir custo e retrabalho. [cite: 675]",
+          [cite_start]"Aumento do valor de equity para os sócios. [cite: 676]"
+        ]
+      },
+      "leadership_role": {
+        [cite_start]"title": "O Papel da Liderança no Novo Ciclo [cite: 690]",
+        [cite_start]"description": "Os gestores das unidades (coordenadores, gerentes, diretores) são quem lidera o movimento de transformação. [cite: 691, 693]",
+        "responsibilities": [
+          [cite_start]"Aplicar os padrões operacionais de forma disciplinada. [cite: 694]",
+          [cite_start]"Implementar o modelo de gestão e garantir a aplicação de ações para o atingimento das metas. [cite: 695]",
+          [cite_start]"Utilizar os processos e sistemas corretamente. [cite: 696]",
+          [cite_start]"Cuidar da cultura local como uma extensão da cultura V4. [cite: 697]",
+          [cite_start]"Liderar pelo exemplo. [cite: 697]"
+        ]
+      }
+    },
+    "administrative_manual_chapter_1": {
+      [cite_start]"title": "Capítulo 1 - O 80/20 do Manual Administrativo [cite: 709]",
+      [cite_start]"objective": "Garantir o entendimento sobre os detalhes burocráticos envolvendo a dinâmica de horizontes, compliance, partnership e governança. [cite: 710]",
+      "partnership_program": {
+        [cite_start]"definition": "Um modelo de sociedade vivo que reconhece e recompensa os indivíduos que constroem valor real, possibilitando que os melhores talentos se tornem sócios com direitos econômicos. [cite: 713, 714, 715]",
+        "modalities": [
+          {
+            "type": "Equity Partner (Phantom Share)",
+            [cite_start]"description": "Modelo de entrada no programa, com direito econômico sem direito político e sem recebimento de dividendos. [cite: 729, 731]"
+          },
+          {
+            "type": "Equity Owner",
+            [cite_start]"description": "Possui participação no contrato social com direitos econômicos e recebe dividendos. [cite: 732, 734]"
+          }
+        ],
+        [cite_start]"valuation_entry_formula": "Valuation = 5x receita [cite: 741]",
+        "exit_formulas": {
+          [cite_start]"low_performance": "Saída forçada com múltiplo reduzido: (FCF * (50 * CAGR)) / 2 [cite: 744, 745]",
+          [cite_start]"voluntary": "Mesmo múltiplo da baixa performance: (FCF * (50 * CAGR)) / 2 [cite: 746, 747]",
+          [cite_start]"involuntary": "Saída estratégica com múltiplo elevado como compensação: FCF * (50 * CAGR) [cite: 748, 750]"
+        },
+        [cite_start]"payment_rules": "Estabelece um limite de 20% do FCF para quitação do equity adquirido, protegendo o caixa da unidade. [cite: 753]",
+        [cite_start]"vesting_period": "12 meses de período de avaliação do novo sócio antes da formalização da compra de ações. [cite: 757, 760]",
+        "equity_increase_methods": [
+          [cite_start]"Bonus for Equity: Converter parte do bônus em ações. [cite: 763, 764]",
+          [cite_start]"Private Fund for Equity: Aportar capital próprio para aquisição de novas ações com desconto. [cite: 772, 773, 774]",
+          [cite_start]"Earnings for Equity: Converter até 20% da remuneração mensal em ações com bônus e desconto. [cite: 776, 777]"
+        ]
+      },
+      "compliance_and_governance": {
+        "franchisee_responsibilities": [
+          [cite_start]"Administrar a Franquia pessoalmente e supervisionar a equipe. [cite: 788]",
+          [cite_start]"Observar e cumprir leis e regulamentos. [cite: 789]",
+          [cite_start]"Pagar royalties e outras taxas previstas em contrato. [cite: 790]",
+          [cite_start]"Garantir a inexistência de vínculo trabalhista com a Franqueadora. [cite: 794]",
+          [cite_start]"Prestar os Serviços em observância estrita às instruções da Franqueadora. [cite: 801]"
+        ],
+        "key_risks": [
+          [cite_start]"Risco de marca/reputacional: A marca precisa ser forte e inviolável. [cite: 821]",
+          [cite_start]"Riscos trabalhistas: Metodologias de contratação não tradicionais exigem cuidado para evitar ações em massa. [cite: 823, 824]",
+          [cite_start]"Risco organizacional: A falta de sinergia na implementação das medidas pode fragilizar a rede. [cite: 826, 827]",
+          [cite_start]"Risco fiscal: A legislação tributária no Brasil é rigorosa, com multas que podem ir de 75% a 225%. [cite: 829]"
+        ],
+        "legal_shield_program": {
+          [cite_start]"description": "Ação coordenada para implementar a conformidade trabalhista, tributária e de dados em todas as Unidades. [cite: 843]",
+          "pillars": [
+            {
+              "name": "Adequação Trabalhista",
+              [cite_start]"details": "Obrigatória a estruturação em duas modalidades: SLU (PJ para salários acima de R$4.000 e com formação técnica) e CLT (para salários abaixo de R$4.000 e atividades repetitivas). [cite: 849, 850, 851, 855]"
+            },
+            {
+              "name": "Ambientação LGPD",
+              [cite_start]"details": "Todos os membros da unidade devem realizar treinamentos sobre boas práticas na gestão de dados. [cite: 857]"
+            },
+            {
+              "name": "Otimização Tributária",
+              [cite_start]"details": "Implementação de teses de otimização tributária, exigindo clareza no processo de faturamento. [cite: 859, 860]"
+            }
+          ]
+        }
+      },
+      "unification_structure": {
+        "horizons": [
+          {
+            "horizon": 1,
+            [cite_start]"mrr": "Unidades com mais de 9 meses e menos de R$ 60.000,00. [cite: 870]"
+          },
+          {
+            "horizon": 2,
+            [cite_start]"mrr": "Unidades com mais de R$ 60.000,00 e menos de R$ 150.000,00. [cite: 871]"
+          },
+          {
+            "horizon": 3,
+            [cite_start]"mrr": "Unidades com mais de R$ 150.000,00 e menos de R$ 600.000,00. [cite: 872]"
+          },
+          {
+            "horizon": 4,
+            [cite_start]"mrr": "Unidades com mais de R$ 600.000,00. [cite: 873]"
+          },
+          {
+            "horizon": 5,
+            [cite_start]"mrr": "Unidades com mais de R$ 600.000,00 que já exerceram mandato de Master. [cite: 874]"
+          }
+        ],
+        [cite_start]"regional_directorates_role": "Unidades referência que terão a responsabilidade de auxiliar na implementação do Plano de Unificação, servindo como exemplo e facilitando processos de M&A em sua regional. [cite: 878, 882]"
+      }
+    },
+    "organizational_structure_chapter_2": {
+      [cite_start]"title": "Capítulo 2 - Estrutura Organizacional (E) [cite: 927]",
+      [cite_start]"objective": "Garantir a estrutura adequada, eficiente e sustentável para crescer com controle e qualidade. [cite: 929]",
+      [cite_start]"revenue_factory_concept": "A unidade da V4 é uma fábrica de receita que integra marketing, vendas e sucesso do cliente (RevOps) para gerar receita com qualidade, sem silos. [cite: 932, 943, 944]",
+      [cite_start]"velocity_concept": "Velocity é saber quando fazer o próximo movimento, não apenas sobre quem contratar, mas quando e como rampar essa pessoa para gerar valor. [cite: 963, 964]",
+      "organizational_blocks": [
+        {
+          "name": "Planejamento, Estratégia e Gestão de Projetos (PE&G)",
+          [cite_start]"function": "Responsável por gerir escopos, planos de voo, entregas e operação, garantindo o sucesso do cliente. [cite: 995, 996, 997]",
+          [cite_start]"leverage_model": "A gestão é construída com base no modelo de leverage 1:8, onde cada Coordenador lidera até 8 especialistas, cada Gerente até 8 Coordenadores, e cada Diretor até 8 Gerentes. [cite: 1015, 1021]",
+          "squad_evolution_stages": [
+            {
+              "stage": 1,
+              "name": "O início - formação enxuta",
+              [cite_start]"mrr": "~R$ 40 mil [cite: 1087]",
+              [cite_start]"payroll_percentage": "~29% [cite: 1087]",
+              [cite_start]"productivity": "~3,4 [cite: 1087]"
+            },
+            {
+              "stage": 2,
+              "name": "Expansão operacional",
+              [cite_start]"mrr": "~R$ 70 mil [cite: 1100]",
+              [cite_start]"payroll_percentage": "32% [cite: 1100]",
+              [cite_start]"productivity": "3,1 [cite: 1100]"
+            },
+            {
+              "stage": 3,
+              "name": "Formação tática parcial",
+              [cite_start]"mrr": "~R$ 100 mil [cite: 1111]",
+              [cite_start]"payroll_percentage": "33% [cite: 1111]",
+              [cite_start]"productivity": "~3,0 [cite: 1111]"
+            },
+            {
+              "stage": 4,
+              "name": "Sweet Spot: equilíbrio ideal",
+              [cite_start]"mrr": "~R$ 150 mil [cite: 1134]",
+              [cite_start]"payroll_percentage": "30% [cite: 1134]",
+              [cite_start]"productivity": "3,3 [cite: 1134]"
+            },
+            {
+              "stage": 5,
+              "name": "Limite operacional e preparação para replicação",
+              [cite_start]"mrr": "> R$ 180 mil [cite: 1141]",
+              [cite_start]"payroll_percentage": "~33% [cite: 1141]",
+              [cite_start]"productivity": "3,0 [cite: 1141]"
+            }
+          ]
+        },
+        {
+          "name": "Receita (Aquisição + Monetização)",
+          [cite_start]"function": "Times comerciais focados em prospecção, venda, renovação e up/cross sell. [cite: 998, 1001]",
+          "acquisition_stages": [
+            [cite_start]{"stage": 1, "avg_unit_revenue": "até R$ 50 000,00 [cite: 1367]"},
+            [cite_start]{"stage": 2, "avg_unit_revenue": "média R$ 150.000,00 [cite: 1375]"},
+            [cite_start]{"stage": 3, "avg_unit_revenue": "media R$ 300,000,00 [cite: 1380]"},
+            [cite_start]{"stage": 4, "avg_unit_revenue": "média R$ 400.000,00 [cite: 1391]"},
+            [cite_start]{"stage": 5, "avg_unit_revenue": "média R$ 800.000.00 [cite: 1398]"}
+          ],
+          "expansion_stages": [
+            [cite_start]{"horizon": "1 (< R$ 60.000,00)", "structure": "Accounts levantam oportunidades e Coordenadores de PE&G constroem propostas. [cite: 1410, 1411]"},
+            [cite_start]{"horizon": "2 (R$ 60k-150k)", "structure": "Estrutura enxuta, com Coordenador de PE&G liderando a monetização. [cite: 1435, 1442]"},
+            [cite_start]{"horizon": "3 (R$ 150k-600k)", "structure": "Introdução do Coordenador de Receitas para conectar aquisição e monetização. [cite: 1460, 1468, 1469]"},
+            [cite_start]{"horizon": "4 (> R$ 600k)", "structure": "Modelo completo com Coordenador de Receitas e Líder de Monetização. [cite: 1493, 1498]"}
+          ]
+        },
+        {
+          "name": "Administração (Financeiro + People)",
+          [cite_start]"function": "Responsável por controladoria, folha, people analytics, clima e cultura para evitar gargalos e garantir compliance. [cite: 1002, 1003, 1004]",
+          "structure_by_revenue": [
+            [cite_start]{"revenue": "Até R$60.000", "team_structure": "O sócio responsável pela Administração exerce o papel de Coordenador Administrativo. [cite: 1184, 1199]"},
+            [cite_start]{"revenue": "R$60.000 - R$150.000", "team_structure": "Inclusão de um People Generalista Jr. para delegar a frente de Pessoas. [cite: 1200, 1208]"},
+            [cite_start]{"revenue": "R$150.000 - R$300.000", "team_structure": "Adição de um Analista Financeiro para executar rotinas do dia a dia. [cite: 1213, 1221]"},
+            [cite_start]{"revenue": "R$300.000 - R$600.000", "team_structure": "Especialização com Analista de Contas a Pagar e Analista de Contas a Receber. [cite: 1238, 1239]"},
+            [cite_start]{"revenue": "Acima de R$600.000", "team_structure": "Estrutura madura com três frentes operacionais: Contas a Pagar, Contas a Receber e Analista Administrativo. [cite: 1248, 1262, 1263, 1264, 1265]"}
+          ]
+        }
+      ]
+    },
+    "management_model_chapter_3": {
+      [cite_start]"title": "Capítulo 3 - Modelo de Gestão (M) [cite: 1530]",
+      "leadership_section": {
+        [cite_start]"objective": "Instruir as lideranças acerca das ferramentas aplicáveis para desenvolver times de alta performance. [cite: 1533]",
+        [cite_start]"philosophy": "Baseada em Vicente Falconi, liderança é a capacidade de bater metas de forma consistente, com ética e método. [cite: 1534, 1535]",
+        "leader_toolbox": [
+          [cite_start]{"tool": "PDCA", "purpose": "Melhorar continuamente qualquer processo. [cite: 1544]"},
+          [cite_start]{"tool": "Pareto (80/20)", "purpose": "Identificar o que mais gera resultado ou problema. [cite: 1544]"},
+          [cite_start]{"tool": "FCA (Fato-Causa-Ação)", "purpose": "Transformar diagnóstico em ação concreta. [cite: 1544]"},
+          [cite_start]{"tool": "Ishikawa", "purpose": "Identificar causas de problemas complexos. [cite: 1544]"},
+          [cite_start]{"tool": "5 Porquês", "purpose": "Encontrar a causa raiz rapidamente. [cite: 1544]"},
+          [cite_start]{"tool": "5W2H", "purpose": "Executar planos de ação com clareza. [cite: 1554]"},
+          [cite_start]{"tool": "PDI (Plano de Desenvolvimento Individual)", "purpose": "Desenvolver pessoas por competências. [cite: 1554]"},
+          [cite_start]{"tool": "Quality check", "purpose": "Realizar o controle de qualidade da companhia. [cite: 1554]"}
+        ],
+        "management_rituals": [
+          [cite_start]{"ritual": "Daily de Execução", "frequency": "Diário", "objective": "Acompanhamento do que foi feito ontem e foco do dia. [cite: 1560]"},
+          [cite_start]{"ritual": "1:1 com liderados", "frequency": "Semanal", "objective": "Desenvolvimento individual + alinhamento de expectativas. [cite: 1560]"},
+          [cite_start]{"ritual": "Comitê de Operações", "frequency": "Semana / mensal/tril", "objective": "Avaliação dos KPIs e correção de rota por plano de ação. [cite: 1560]"},
+          [cite_start]{"ritual": "Avaliação de desempenho", "frequency": "Trimestral", "objective": "Entrega + comportamento como base para PDI e bônus. [cite: 1563]"}
+        ]
+      },
+      "goal_application_section": {
+        [cite_start]"objective": "Implementar um sistema de metas, controle e rituais de execução de forma padronizada e sincronizada. [cite: 1578]",
+        [cite_start]"bsc_framework": "O Balanced Scorecard (BSC) é o sistema oficial de metas da rede, organizando a operação em seis áreas: Monetização, Aquisição, Governança, Operações, Financeiro e Pessoas. [cite: 1580, 1582]",
+        [cite_start]"operacao_sonho_grande": "Movimento estratégico para alinhar metas de forma cascateada, garantindo que cada número da ponta tenha ligação direta com a visão macro da companhia. [cite: 1601, 1602, 1603]",
+        [cite_start]"goal_setting_principles": "Foco em no máximo 5 metas para garantir clareza, monitoramento real, ação com profundidade e responsabilização direta. [cite: 1611, 1613, 1618, 1620, 1628]"
+      }
+    },
+    "processes_and_gtm_chapter_4": {
+      [cite_start]"title": "Capítulo 4 - Processos + GTM (P) [cite: 1648]",
+      [cite_start]"objective": "Crescer de forma padronizada e sustentável as operações do ponto de vista de uma fábrica de receita. [cite: 1649]",
+      [cite_start]"people_vs_processes_shift": "É preciso operar com foco em processos, e não apenas em pessoas, pois empresas centradas em processos ganham eficiência com o tempo. [cite: 1656, 1658] [cite_start]A pergunta correta é 'O que causou?' e não 'quem causou?'. [cite: 1673]",
+      [cite_start]"bowtie_model": "Estrutura a jornada do cliente em Aquisição, Retenção e Expansão, utilizando processos operacionais padronizados em cada etapa para garantir previsibilidade e qualidade. [cite: 1697, 1698]",
+      "ai_first_mindset": {
+        [cite_start]"concept": "Tudo que pode ser acelerado ou melhorado com IA, deve ser. [cite: 1751] [cite_start]A IA não substitui a liderança, ela a amplifica. [cite: 1798]",
+        "impact_on_emps": {
+          [cite_start]"structure_E": "IA no suporte à alocação de recursos e planejamento de estrutura. [cite: 1767, 1769, 1771]",
+          [cite_start]"management_M": "IA como copiloto na gestão de metas com dashboards automatizados e análises preditivas. [cite: 1777, 1779, 1780, 1781]",
+          [cite_start]"processes_P": "IA como esteira de eficiência com automação de etapas do GTM e copilotos em ferramentas. [cite: 1785, 1786, 1787]",
+          [cite_start]"systems_S": "IA como ponte entre ferramentas, com integrações e centralização de dados para análises em tempo real. [cite: 1793, 1794, 1794]"
+        }
+      },
+      "recurring_revenue_principles": [
+        [cite_start]"As taxas de crescimento diminuirão naturalmente. [cite: 1825]",
+        [cite_start]"Crescimento do poder de retenção e expansão além de US$ 10 milhões em ARR. [cite: 1826]",
+        [cite_start]"Os efeitos da receita recorrente levam tempo. [cite: 1827]",
+        [cite_start]"O risco de uma compra é transferido do comprador para o vendedor. [cite: 1828]",
+        [cite_start]"A receita recorrente é o resultado de um impacto recorrente. [cite: 1829]"
+      ],
+      "winning_by_design_models": [
+        [cite_start]{"model": 1, "name": "Revenue Model", "description": "Define como a empresa ganha dinheiro. [cite: 1840, 1842]"},
+        [cite_start]{"model": 2, "name": "Data Model", "description": "Mostra como medir o sucesso, utilizando o Bowtie para mapear dados por etapa da jornada do cliente. [cite: 1844, 1845]"},
+        [cite_start]{"model": 3, "name": "Mathematical Model", "description": "Define os KPIs críticos para o crescimento, como taxas de conversão, churn e NRR. [cite: 1846, 1847]"},
+        [cite_start]{"model": 4, "name": "Operating Model", "description": "Define os processos e rotinas que garantem a execução do modelo matemático. [cite: 1849, 1850]"},
+        [cite_start]{"model": 5, "name": "Growth Model", "description": "Mostra como escalar o modelo com eficiência, identificando alavancas de crescimento. [cite: 1852, 1853]"},
+        [cite_start]{"model": 6, "name": "GTM Model", "description": "Descreve como a empresa se organiza para ir ao mercado, definindo a estrutura de squads, funis e funções. [cite: 1855, 1856]"}
+      ]
+    },
+    "systems_chapter_5": {
+      [cite_start]"title": "Capítulo 5 - Sistemas (S) [cite: 1946]",
+      [cite_start]"objective": "Usar tecnologia para padronizar, crescer com qualidade e acompanhar a execução de forma auditável. [cite: 1947]",
+      [cite_start]"definition": "Sistemas são ferramentas tecnológicas padronizadas que suportam a execução dos processos, garantindo controle e visibilidade em tempo real. [cite: 1949, 1950] [cite_start]Utilizar os sistemas corretos reduz o risco de falhas humanas e melhora a previsibilidade dos resultados. [cite: 1953]",
+      "official_systems_list": [
+        [cite_start]{"area": "Financeiro", "system": "Conta Azul", "function": "Gestão contábil e financeira, controle de caixa, inadimplência e relatórios. [cite: 1957]"},
+        [cite_start]{"area": "Pessoas", "system": "WFM", "function": "Gestão de escalas e produtividade da equipe. [cite: 1957]"},
+        [cite_start]{"area": "Pessoas", "system": "Staage", "function": "Aprendizagem e desenvolvimento contínuo dos colaboradores. [cite: 1957]"},
+        [cite_start]{"area": "Pessoas", "system": "Inhire", "function": "Recrutamento e seleção de novos talentos. [cite: 1957]"},
+        [cite_start]{"area": "PE&G", "system": "HOPS", "function": "Gestão da jornada dos clientes V4. [cite: 1957]"},
+        [cite_start]{"area": "PE&G", "system": "Ekyte", "function": "Gestão de projetos e tarefas. [cite: 1957]"},
+        [cite_start]{"area": "Aquisição", "system": "Sales Force", "function": "Acompanhamento do funil de leads e oportunidades de venda. [cite: 1957]"},
+        [cite_start]{"area": "Aquisição", "system": "API4Com", "function": "Automação dos processos de captação de leads e integração de dados. [cite: 1957]"},
+        [cite_start]{"area": "Compliance", "system": "Ethics", "function": "Recebimento de denúncias de desconformidade para garantir a governança e a ética na rede. [cite: 1957]"}
+      ]
+    },
+    "commitment_term": {
+      [cite_start]"title": "Termo de Compromisso com a Single Entity [cite: 1962]",
+      [cite_start]"statement": "O gestor declara estar alinhado com os princípios, metas e modelos de gestão da V4 Company, reconhecendo que a V4 opera como uma entidade única e que seu papel como líder é garantir a conformidade e aplicação do EMPS em sua unidade, contribuindo para o crescimento sustentável da rede. [cite: 1964, 1966, 1968, 1975, 1976]"
+    }
+  }
+}
